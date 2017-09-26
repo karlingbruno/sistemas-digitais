@@ -6,8 +6,7 @@ output [7:0]LEDG,
 output [7:0]LEDR
 );
 
-//assign LEDG = KEY;
-//assign LEDR = SW;
+
 
 reg [27:0] contador = 0;
 reg l = 0;
