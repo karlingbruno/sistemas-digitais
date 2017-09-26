@@ -1,4 +1,4 @@
-module piscaleds(
+module piscar(
 input CLOCK_50, 
 input [3:0] KEY, 
 input [9:0] SW,
